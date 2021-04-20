@@ -9,5 +9,8 @@
   },
   "scripts": {
     "start": "npx tsc-watch --onSuccess \" node dist/index.js \" "
+  },
+  "dependencies": {
+    "crypto-js": "^4.0.0"
   }
 }

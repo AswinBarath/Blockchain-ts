@@ -1,0 +1,13 @@
+{
+  "name": "blockchain-in-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "tsc-watch": "^4.2.9",
+    "typescript": "^4.2.4"
+  },
+  "scripts": {
+    "start": "npx tsc-watch --onSuccess \" node dist/index.js \" "
+  }
+}

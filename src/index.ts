@@ -92,9 +92,8 @@ const addBlock = (candidateBlock: Block): void => {
     }
 }
 
-createNewBlock("2nd block");
-createNewBlock("3rd block");
-createNewBlock("4th block");
+createNewBlock("Welcome");
+createNewBlock("Namaste");
 console.log(getBlockchain());
 
 export { };

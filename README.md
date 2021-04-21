@@ -4,6 +4,11 @@ Building Blockchain with TypeScript
 
 TypeScript is a superset of JavaScript
 
+## Blockchain example
+
+<img src="res/Blockchain-screenshot.JPG" />
+
+
 ## Commands used for this project
 
 1. npm install --global yarn
@@ -13,3 +18,4 @@ TypeScript is a superset of JavaScript
 5. npx tsc
 (For compilation of typescript to javascript)
 6. yarn start
+7. yarn add tsc-watch --dev
